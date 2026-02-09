@@ -9,7 +9,7 @@
 
 ### 1) 🏙️ 대구 주거지역 도시활력 특성 분석 (Telecom Living Population)
 - 📄 PDF: `대구 주거지역에 대한 도시활력 특성 분석_류효정.pdf`
-- 🗺️ Figures: ``
+- 🗺️ Figures: `평균인구_07_11시`, `평균인구_12_18시`, `평균인구_19_22시`, `평균인구_23_06시`
 - 🧾 Data / Code: `260127_urban_vitality_analysis.ipynb`
 ### 2) 추가 예정
 
